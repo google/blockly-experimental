@@ -28,7 +28,7 @@ We learned that:
 
 ### Using the demo
 Open the [demo
-page](github.com/google/blockly-experimental/demos/accessible/index.html).
+page](https://github.com/google/blockly-experimental/blob/master/demos/accessible/index.html).
 This demo uses the compressed version of the code.
 
 ### Building
