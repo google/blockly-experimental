@@ -34,4 +34,4 @@ This demo uses the compressed version of the code.
 ### Building
 To build the demo you will need the rest of Blockly.  The `accessible` folder
 must be at the same level as Blockly's `core` folder.  Run `build.py
--accessible` to generate the compressed and uncompressed files.
+accessible` to generate the compressed and uncompressed files.
